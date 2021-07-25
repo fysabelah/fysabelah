@@ -8,7 +8,7 @@ Curiosa, engraçada e simpática. Acredito não ter outras palavras que me descr
 
 :computer: Estou trabalhando para ser uma Desenvolvedora Full Stack.
 
-:school_satchel: Estou me dedicando a aprender Java, JavaScript, React e Angular. Sei que é muito para um começo, mas um dia eu chego lá.
+:school_satchel: Estou me dedicando a aprender Java e JavaScript.
 
 :alien: As vezes eu escrevo algumas coisas para passar o tempo. Se são boas, aí já é outra história. Quem sabe um dia eu publique e descubra... quem sabe?!
 
