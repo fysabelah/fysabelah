@@ -12,7 +12,7 @@ Curiosa e simpática. Acredito não ter outras palavras que me descrevam tão be
 
 :alien: As vezes eu escrevo algumas coisas para passar o tempo. Se são boas, aí já é outra história. Quem sabe um dia eu publique e descubra... quem sabe?!
 
-:mortar_board: Graduanda em Ciência da Computação.
+:mortar_board: Graduada em Ciência da Computação.
 <br><br><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/isabela-fran%C3%A7a-4b43391a2/">
