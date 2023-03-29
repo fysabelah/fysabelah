@@ -8,7 +8,7 @@ Curiosa e simpática. Acredito não ter outras palavras que me descrevam tão be
 
 :computer: Estou trabalhando para ser uma Desenvolvedora Java.
 
-:school_satchel: Estou me dedicando a aprender Java e JavaScript.
+:school_satchel: Estou me dedicando a aprender Java e DevOps.
 
 :alien: As vezes eu escrevo algumas coisas para passar o tempo. Se são boas, aí já é outra história. Quem sabe um dia eu publique e descubra... quem sabe?!
 
