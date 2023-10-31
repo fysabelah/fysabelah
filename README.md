@@ -13,9 +13,11 @@ Curiosa e simpática. Acredito não ter outras palavras que me descrevam tão be
 :alien: As vezes eu escrevo algumas coisas para passar o tempo. Se são boas, aí já é outra história. Quem sabe um dia eu publique e descubra... quem sabe?!
 
 :mortar_board: Graduada em Ciência da Computação.
+
+:floppy_disk: Pós-Graduando em Arquitetura e Desenvolvimento Java
+
 <br><br><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/isabela-fran%C3%A7a-4b43391a2/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fysabelah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fysabelah&layout=compact&langs_count=7&theme=radical"/>
 </div>
