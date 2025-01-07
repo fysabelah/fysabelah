@@ -14,7 +14,7 @@ Curiosa e simpática. Acredito não ter outras palavras que me descrevam tão be
 
 :mortar_board: Graduada em Ciência da Computação.
 
-:floppy_disk: Pós-Graduando em Arquitetura e Desenvolvimento Java
+:floppy_disk: Pós-Graduada em Arquitetura e Desenvolvimento Java
 
 <br><br><br>
 <div align="center">
